@@ -1,0 +1,13 @@
+{
+    "name": "Auth",
+    "alias": "auth",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Dashboard\\Auth\\src\\Providers\\AuthServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
